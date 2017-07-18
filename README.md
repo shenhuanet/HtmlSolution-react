@@ -7,7 +7,7 @@
 ### 3. 修改 router.js 里的 IndexPage 的路径:
 
 ```
-import IndexPage from './routes/Home'
+import IndexPage from './routes/React-HtmlSolution'
 ```
 
 ### 4. 如果用的是 antd 的脚手 [dva-cli](https://github.com/dvajs/dva-cli)； dva-cli 的具体[教程请查看](https://github.com/sorrycc/blog/issues/18)
